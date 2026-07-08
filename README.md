@@ -34,7 +34,7 @@
 pkg update && pkg upgrade -y
 pkg install root-repo tsu git python nmap aircrack-ng macchanger tor proxychains-ng openvpn -y
 pip install requests
-git clone https://github.com/wayahajipradhipto0-maker/wifi-brute-force-ultimate.git
+git clone https://github.com/yhhh6720-/wifi-brute-force-ultimate.git
 cd wifi-brute-force-ultimate
 wget -O /sdcard/wordlist.txt https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/top-1000.txt
 sudo python wifi_hack_ultimate.py
