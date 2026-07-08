@@ -30,4 +30,4 @@ else
 fi
 
 echo "[✅] Installasi selesai!"
-echo "[🚀] Jalankan: sudo python wifi_hack_ultimate.py"
+echo "[🚀] Jalankan: sudo python3 wifi_hack_ultimate.py"
